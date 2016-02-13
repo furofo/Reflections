@@ -12,3 +12,9 @@ would effect your program layout.
 
 They help me visualize the branch structure because well, they are visual. It shows a clear path of the commits in an easy
 to understand manner and helps me see excatly where these branches branch off so to speak.
+
+4.) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together allows you to keep all changes in both versions without breaking the code by getting rid of
+deleted files and only keeping the added ones in order to keep the program bug free. We represent it in a diagram
+so that it is easy to understand and visualize how this happens.
