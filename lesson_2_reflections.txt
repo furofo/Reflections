@@ -1,3 +1,14 @@
 1.) How can you use the staging area to make sure you have one commit per logical change?
    You can use the staging area as an itermediary of sorts to make sure that you have one commit per logical change
 before you actually commit them. This is a middle man of sorts that makes certain you know what you are commiting. 
+
+2.) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+They make it a lot easier and effiecient to test experiments and how they effect code without having to mess around with
+your main program. Branches help by creating an easy path for you to follow to see how something like another language
+would effect your program layout.
+
+3.)How do the diagrams help you visualize the branch structure?
+
+They help me visualize the branch structure because well, they are visual. It shows a clear path of the commits in an easy
+to understand manner and helps me see excatly where these branches branch off so to speak.
