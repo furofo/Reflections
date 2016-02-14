@@ -18,3 +18,11 @@ to understand manner and helps me see excatly where these branches branch off so
 Merging two branches together allows you to keep all changes in both versions without breaking the code by getting rid of
 deleted files and only keeping the added ones in order to keep the program bug free. We represent it in a diagram
 so that it is easy to understand and visualize how this happens.
+
+5.)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Gits automatic merging is convenient because it will only add changes that will keep the code running smoothly. It could 
+backfire though if someone else changes the code in a way that makes it less convienient to use or alters the way it works
+significantly. Always doing merges manually would resolve this issue but would be subject to subjective opinions and would
+take significantly more time to accomplish.
+
