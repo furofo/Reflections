@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you were making changes on another computer or someone else was making changes from another computer. 
+Or if you wanted the changes to be instantly available instead of having to commit from local repository.
