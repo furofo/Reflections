@@ -18,3 +18,6 @@ them to git, both of these methods automaticlaly create remotes pointing to the 
 are alternate paths from the main code where you can try experimental changes like alternate languages without worrying
 about the main code and can them merge them back later without effecting functionality of the main branch.
 
+4.) What is the benefit of having a copy of the last known state of the remote stored locally?
+It allows you to work offline and commit the changes later, like if you were on a airplane or something
+
