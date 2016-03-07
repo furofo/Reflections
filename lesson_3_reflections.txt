@@ -21,3 +21,8 @@ about the main code and can them merge them back later without effecting functio
 4.) What is the benefit of having a copy of the last known state of the remote stored locally?
 It allows you to work offline and commit the changes later, like if you were on a airplane or something
 
+5.) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You could collaborate without git hub by meeting up locally and discussing ideas / code and writing programs to compare eachothers
+code. It would be easier to understand what the other person is trying to do, but it would be significantly harder to find a time where
+you could both meet and it would be very time consuming since you write a lot of propietary code each time you do something like this.
+
